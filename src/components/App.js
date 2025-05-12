@@ -7,7 +7,7 @@ const App = () => {
   return (
    
       <Header 
-       header={<h1>welcome to my site</h1>}
+       header={<h1>Welcome to my website</h1>}
        footer={<p>© 2025 My Company</p>}
       >
 
